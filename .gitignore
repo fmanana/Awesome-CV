@@ -7,7 +7,7 @@
 *.fls
 *.out
 *.toc
-
+*.gz
 ## Intermediate documents:
 *.dvi
 *-converted-to.*
